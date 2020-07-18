@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Ennemy.tscn" type="PackedScene" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+[ext_resource path="res://Level.gd" type="Script" id=3]
+[ext_resource path="res://Ennemy.gd" type="Script" id=4]
+[ext_resource path="res://Sprite.gd" type="Script" id=5]
+
+[node name="Level" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Ennemy" type="Node2D" parent="." instance=ExtResource( 1 )]
+script = ExtResource( 4 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
