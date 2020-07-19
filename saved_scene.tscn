@@ -42,6 +42,202 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="Ennemy/Sprite"]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "ennemy"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
+[node name="Sprite" type="Sprite" parent="Ennemy"]
+position = Vector2( 63.6263, 3.15874 )
+scale = Vector2( 2.98832, 1.09871 )
+texture = ExtResource( 2 )
+script = ExtResource( 5 )
+
 [node name="Sprite" type="Sprite" parent="Ennemy"]
 position = Vector2( 63.6263, 3.15874 )
 scale = Vector2( 2.98832, 1.09871 )
